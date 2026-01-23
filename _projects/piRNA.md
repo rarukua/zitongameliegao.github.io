@@ -15,7 +15,7 @@ Non-small cell lung cancer (NSCLC) is a lethal cancer and lacks robust biomarker
   alt="Graphical abstract of the pi-TPI model for NSCLC diagnosis"
 %}
 
-![Overview](assets/img/piTPI/fig1.jpg)
+![Overview](assets/img/piTPI/figure1.jpg)
 
 ---
 
