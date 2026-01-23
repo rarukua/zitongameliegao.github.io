@@ -2,7 +2,7 @@
 layout: page
 title: Novel non-small cell lung cancer diagnosis panel from small RNA - piRNA
 description: with background image
-img: assets/img/graphical abtract.pdf
+img: assets/img/graphical_abtract.jpg
 importance: 1
 category: work
 related_publications: true
