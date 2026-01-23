@@ -48,7 +48,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-novel-nsclc-diagnosis-panel-from-small-rna-pirna",
           title: 'Novel NSCLC diagnosis panel from small RNA (piRNA)',
-          description: "apiTPI risk score for early-stage NSCLC",
+          description: "piTPI risk score for early-stage NSCLC",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
