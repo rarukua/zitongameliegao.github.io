@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rarukua.github.io//zitongameliegao.github.io/sitemap.xml
+Sitemap: https://rarukua.github.io//sitemap.xml
