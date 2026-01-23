@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD | Bioinformatics | Small RNA | Patent Agent
+subtitle: PhD | Bioinformatics | Small RNA | Oncology ｜Patent Agent
 
 profile:
   align: right
@@ -23,9 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Ph.D. in Molecular Biosciences and Bioengineering with interdisciplinary expertise spanning RNA and small RNA biology, genomics, bioinformatics, and artificial intelligence.
-Registered patent agent pursuing a career in life science patent prosecution.
-Experienced in integrating experimental and computational approaches to interpret complex biological data, drafting
-scientific and technical documents, and conducting novelty and prior-art analyses.
-Bringing ten years of scientific writing experience and six years of oncology-focused research, with ten first-author
-publications and strong experience drafting manuscript reviews and rebuttal letters.
+I’m a Ph.D.-trained scientist in Molecular Biosciences and Bioengineering with a passion for working at the intersection of biology, data, and ideas. My background spans RNA and small RNA biology, genomics, bioinformatics, and artificial intelligence, and I enjoy bringing experimental and computational approaches together to make sense of complex biological systems. 
+
+Over the past decade, I’ve built extensive experience in scientific writing and communication, including drafting manuscripts, technical documents, novelty and prior-art analyses, and detailed responses to peer review. My research training includes six years of oncology-focused work and ten first-author publications, and I genuinely enjoy the process of refining ideas, telling scientific stories, and bridging gaps between disciplines.
+
+Outside of work, I love getting outdoors and staying active. You’ll often find me hiking, snorkeling, or training Brazilian jiu-jitsu as a proud blue belt. I also enjoy creative writing and reading, and I’m always excited to learn something new, whether it’s a research concept, a new trail, or a fresh perspective.
