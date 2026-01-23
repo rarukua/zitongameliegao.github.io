@@ -36,12 +36,10 @@
       institution: Bioinformatics Core, John A. Burns School of Medicine, University of Hawaiʻi at Mānoa Cancer Center
       year: Jan 2020 - Dec 2025
       description:
-        - Interdisciplinary research in cancer bioinformatics, small RNA biology, and machine learning.
-        - title: Selected highlights
-          contents:
-            - Enhanced microRNA and piRNA target prediction using transformer-based sequence models and base-pairing patterns.
-            - Optimized Random Forest combined with Logistic Regression for non-small cell lung cancer diagnosis using piRNA biomarkers.
-            - Applied machine learning models to identify diagnostic and prognostic signatures from tRNA-derived fragments with integrated clinical characteristics.
+        - Enhanced microRNA and piRNA target prediction using transformer-based sequence models and base-pairing patterns.
+        - Optimized Random Forest combined with Logistic Regression for non-small cell lung cancer diagnosis using piRNA biomarkers.
+        - Applied machine learning models to identify diagnostic and prognostic signatures from tRNA-derived fragments with integrated clinical characteristics.
+        
 
 - title: Certificates
   type: time_table
