@@ -2,6 +2,7 @@
 layout: project
 title: Novel NSCLC diagnosis panel from small RNA (piRNA)
 description: piTPI risk score for early-stage NSCLC
+category: work
 importance: 1
 thumbnail: assets/img/piTPI/graphical_abstract.jpg
 ---
