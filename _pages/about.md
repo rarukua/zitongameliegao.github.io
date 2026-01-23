@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD | Bioinformatics | Small RNA | Oncology ｜Patent Agent
+subtitle: PhD | Bioinformatics | Small RNA | Oncology｜Patent Agent
 
 profile:
   align: right
