@@ -46,12 +46,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-novel-non-small-cell-lung-cancer-nsclc-diagnosis-panel-from-small-rna-pirna",
-          title: 'Novel non-small cell lung cancer(NSCLC) diagnosis panel from small RNA (piRNA)',
-          description: "piTPI risk score for early-stage NSCLC",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-comprehensive-landscape-of-trna-derived-fragments-in-lung-cancer",
+          section: "News",},{id: "projects-comprehensive-landscape-of-trna-derived-fragments-in-lung-cancer",
           title: 'Comprehensive landscape of tRNA-derived fragments in lung cancer',
           description: "tDRF profiling, diagnostic signatures, plasma validation, and immunotherapy associations",
           section: "Projects",handler: () => {
@@ -86,6 +81,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-novel-non-small-cell-lung-cancer-nsclc-diagnosis-panel-from-small-rna-pirna",
+          title: 'Novel non-small cell lung cancer(NSCLC) diagnosis panel from small RNA (piRNA)',
+          description: "piTPI risk score for early-stage NSCLC",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/piRNA/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
