@@ -16,7 +16,8 @@ Non-small cell lung cancer (NSCLC) is a lethal cancer and lacks robust biomarker
   alt="Graphical abstract of the pi-TPI model for NSCLC diagnosis"
 %}
 
-
+Diagnostic panel consisting of five piRNAs regarded as piRNA Base Tumor Probability Index (pi-TPI) exhibited high distinguish ability between cancer and non-cancer groups. 
+ 
 <div class="row">
     <div class="col-md-4">
         {% include figure.liquid loading="eager" path="assets/img/piTPI/figure2.png" title="example image" class="img-fluid rounded z-depth-1" %}
