@@ -59,3 +59,15 @@ TPM expression of six tRDFs between tumor and healthy controls:
   class="img-fluid rounded z-depth-1"
   alt="workflow"
 %}
+
+
+---
+## Immune infiltration and tumor microenvironment correlated with tRDFs
+
+(A) Bar plot shows the correlation between tRDFs and TIME cell infiltration evaluated by Pearson correlation. The length of column indicates the correlation; immune cells were selected from the mutual correlation with 5ʹ-tRDFs and 3ʹ-tRDFs. (B) Kaplan-Meier curves show overall survival of plasma cells that correlated with prognostic tRDFs. Red color indicates the high abundance of plasma cells, and blue color indicates the low abundance of plasma cells. (C) Network shows the tRDF-targeted immune-related signaling pathways in TCGA-LUAD cohort, including primary immunodeficiency, viral protein interaction with cytokine and cytokine receptor, cytokine-cytokine receptor interaction, hematopoietic cell lineage, T cell receptor signaling pathway, and the other signaling pathway. IgA, immunoglobulin A. (D) The correlation between tRDF with immune checkpoint CD274 (PD-L1), CTLA4, CD80, and CD86.
+
+{% include figure.liquid
+  path="/assets/img/tRDF/figure7.png"
+  class="img-fluid rounded z-depth-1"
+  alt="Plasma validation of tRDF expression between NSCLC patients and healthy donors"
+%}
