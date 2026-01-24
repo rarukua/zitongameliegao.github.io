@@ -5,7 +5,7 @@ description: piTPI risk score for early-stage NSCLC
 img: assets/img/piTPI/graphical_abstract.jpg
 importance: 2
 category: work
-giscus_comments: true
+
 ---
 **Paper:** 
 A robust machine learning model based on ribosomal-subunit-derived piRNAs for diagnostic potential of nonsmall cell lung cancer across multicentre, large-scale of sequencing data, Clinical and Translational Medicine, 2025
