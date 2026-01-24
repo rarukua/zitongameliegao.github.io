@@ -86,11 +86,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-comims-mirna",
-          title: 'COMIMS-miRNA',
-          description: "Transformer-based miRNA–mRNA interaction prediction using CLASH-seq",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/comims/";
             },},{id: "projects-novel-nsclc-diagnosis-panel-from-small-rna-pirna",
           title: 'Novel NSCLC diagnosis panel from small RNA (piRNA)',
           description: "piTPI risk score for early-stage NSCLC",
