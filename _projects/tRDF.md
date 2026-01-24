@@ -5,7 +5,7 @@ subtitle: Diagnostic and prognostic tRDF signatures in NSCLC
 description: tDRF profiling, diagnostic signatures, plasma validation, and immunotherapy associations
 category: work
 importance: 3
-thumbnail: /assets/img/tRDF/graphical_abstract.png
+img: /assets/img/tRDF/graphical_abstract.png
 ---
 
 ## Overview
