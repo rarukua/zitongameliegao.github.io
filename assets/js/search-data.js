@@ -46,12 +46,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "projects-novel-non-small-cell-lung-cancer-nsclc-diagnosis-panel-from-small-rna-pirna",
+          section: "News",},{id: "projects-novel-non-small-cell-lung-cancer-nsclc-diagnosis-panel-from-small-rna-pirna",
           title: 'Novel non-small cell lung cancer(NSCLC) diagnosis panel from small RNA (piRNA)',
           description: "piTPI risk score for early-stage NSCLC",
           section: "Projects",handler: () => {
