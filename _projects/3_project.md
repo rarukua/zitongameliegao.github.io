@@ -2,7 +2,7 @@
 layout: page
 title: Comprehensive landscape of tRNA-derived fragments in lung cancer
 description: tDRF and its potential in lung cancer
-img: assets/img/tRDF/graphical_abstract.jpg
+img: _projects/assets/img/tRDF/graphical_abstract.jpg
 importance: 3
 category: work
 ---
